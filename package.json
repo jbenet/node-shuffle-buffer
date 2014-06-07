@@ -1,0 +1,27 @@
+{
+  "name": "shuffle-buffer",
+  "version": "1.0.0",
+  "description": "shuffle buffer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbenet/node-shuffle-buffer.git"
+  },
+  "keywords": [
+    "shuffle",
+    "buffer"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbenet/node-shuffle-buffer/issues"
+  },
+  "homepage": "https://github.com/jbenet/node-shuffle-buffer",
+  "dependencies": {
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {}
+}
