@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/jbenet/node-shuffle-buffer",
   "dependencies": {
-    "underscore": "^1.6.0"
+    "lodash.shuffle": "^2.4.1"
   },
   "devDependencies": {}
 }
